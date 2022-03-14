@@ -1,6 +1,6 @@
 title: Pedro E. Rodriguez
-url: "https://perodmar.github.io/researcher/"
-#baseurl: "/researcher"
+url: "https://perodmar.github.io"
+baseurl: "/researcher"
 
 markdown: kramdown
 tracking_id: #
