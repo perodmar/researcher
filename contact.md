@@ -2,6 +2,9 @@
 layout: default
 is_contact: true
 ---
+
+## Contact
+
 Email: [perodmar@gwu.edu](mailto:perodmar@gwu.edu)\
 Phone: [+1(628)252-8644](tel:+1(628)252-8644)
 
