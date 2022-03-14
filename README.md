@@ -1,6 +1,6 @@
 # Researcher
 
-This site was forked from: http://ankitsultana.com/researcher
+This site was forked from: https://github.com/ankitsultana/researcher
 
 ### License
 
