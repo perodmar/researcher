@@ -10,7 +10,7 @@ My name is Pedro Rodriguez. I am a Ph.D. student in the Department of Economics 
 
 My research interests are in **applied microeconomics** with a focus on **environmental, urban and development** economics.
 
-For more information, please see my [CV](/resume.pdf).
+For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 
 
 ## Works in Progress:
