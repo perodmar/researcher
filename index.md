@@ -4,42 +4,23 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="photo.jpg">
+ 
+My name is Pedro Rodriguez. I am a Ph.D. student in the Department of Economics at George Washington University. Prior to graduate school I was a research fellow at the Research Department of the Inter-American Development Bank (IADB).
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+My research interests are in **applied microeconomics** with a focus on **environmental, urban and development** economics.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+For more information, please see my [CV](/resume.pdf). Every now and then I [post]({{< ref "/r" >}} "r") cool R stuff!
 
-## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Works in Progress:
 
-## Publications
+1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (joint with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
+2. Police-Monitored Cameras and Crime: Evidence from Ecuador (joint with Andrea Aguirre and [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
+3. Geography of Latin American Cities and Urban Outcomes (joint with [Remi Jedwab](https://www.remijedwab.com/))
+4. Access to Justice and Domestic Violence: Evidence from Indiaâs One-Stop Centers (joint with Ammu Lavanya)
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+## Op-eds:
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. Ideas to safely reduce prison populations during the pandemic (Ideas Matter â May 2020) [[English](https://blogs.iadb.org/ideas-matter/en/ideas-to-safely-reduce-prison-populations-during-the-pandemic/)] [[EspaÃ±ol](https://blogs.iadb.org/ideas-que-cuentan/es/ideas-para-reducir-la-poblacion-carcelaria-de-manera-segura-ante-la-pandemia/)]
+2. Pandemic and prisons: What are the challenges for Latin American countries (Ideas Matter â April 2020) [[English](https://blogs.iadb.org/ideas-matter/en/pandemic-and-prisons-what-are-the-challenges-for-latin-american-governments/)] [[EspaÃ±ol](https://blogs.iadb.org/ideas-que-cuentan/es/la-pandemia-y-las-prisiones-cuales-son-los-desafios-para-los-gobiernos-de-america-latina/)]
