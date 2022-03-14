@@ -2,25 +2,12 @@
 layout: default
 is_contact: true
 ---
-
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
+Email: [perodmar@gwu.edu](mailto:perodmar@gwu.edu)\
+Phone: [+1(628)252-8644](tel:+1(628)252-8644)
 
 ## Mailing Address
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+Room 374 \
+Monroe Hall \
+2115 G St. NW \
+Washington, DC 20052
