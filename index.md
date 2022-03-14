@@ -10,7 +10,7 @@ My name is Pedro Rodriguez. I am a Ph.D. student in the Department of Economics 
 
 My research interests are in **applied microeconomics** with a focus on **environmental, urban and development** economics.
 
-For more information, please see my [CV](/resume.pdf). Every now and then I [post]({{< ref "/r" >}} "r") cool R stuff!
+For more information, please see my [CV](/resume.pdf).
 
 
 ## Works in Progress:
@@ -18,9 +18,9 @@ For more information, please see my [CV](/resume.pdf). Every now and then I [pos
 1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (joint with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
 2. Police-Monitored Cameras and Crime: Evidence from Ecuador (joint with Andrea Aguirre and [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
 3. Geography of Latin American Cities and Urban Outcomes (joint with [Remi Jedwab](https://www.remijedwab.com/))
-4. Access to Justice and Domestic Violence: Evidence from Indiaâs One-Stop Centers (joint with Ammu Lavanya)
+4. Access to Justice and Domestic Violence: Evidence from India's One-Stop Centers (joint with Ammu Lavanya)
 
 ## Op-eds:
 
-1. Ideas to safely reduce prison populations during the pandemic (Ideas Matter â May 2020) [[English](https://blogs.iadb.org/ideas-matter/en/ideas-to-safely-reduce-prison-populations-during-the-pandemic/)] [[EspaÃ±ol](https://blogs.iadb.org/ideas-que-cuentan/es/ideas-para-reducir-la-poblacion-carcelaria-de-manera-segura-ante-la-pandemia/)]
-2. Pandemic and prisons: What are the challenges for Latin American countries (Ideas Matter â April 2020) [[English](https://blogs.iadb.org/ideas-matter/en/pandemic-and-prisons-what-are-the-challenges-for-latin-american-governments/)] [[EspaÃ±ol](https://blogs.iadb.org/ideas-que-cuentan/es/la-pandemia-y-las-prisiones-cuales-son-los-desafios-para-los-gobiernos-de-america-latina/)]
+1. Ideas to safely reduce prison populations during the pandemic (Ideas Matter - May 2020) [[English](https://blogs.iadb.org/ideas-matter/en/ideas-to-safely-reduce-prison-populations-during-the-pandemic/)] [[EspaÃ±ol](https://blogs.iadb.org/ideas-que-cuentan/es/ideas-para-reducir-la-poblacion-carcelaria-de-manera-segura-ante-la-pandemia/)]
+2. Pandemic and prisons: What are the challenges for Latin American countries (Ideas Matter - April 2020) [[English](https://blogs.iadb.org/ideas-matter/en/pandemic-and-prisons-what-are-the-challenges-for-latin-american-governments/)] [[EspaÃ±ol](https://blogs.iadb.org/ideas-que-cuentan/es/la-pandemia-y-las-prisiones-cuales-son-los-desafios-para-los-gobiernos-de-america-latina/)]
