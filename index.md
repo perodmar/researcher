@@ -8,7 +8,7 @@ layout: default
  
 My name is Pedro Rodriguez. I am a Ph.D. student in the Department of Economics at George Washington University. Prior to graduate school I was a research fellow at the Research Department of the Inter-American Development Bank (IADB).
 
-My research interests are in **applied microeconomics** with a focus on **environmental, urban and development** economics.
+My research interests are in **applied microeconomics** with a focus on **urban, environmental and development** economics.
 
 For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 
