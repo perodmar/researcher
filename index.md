@@ -12,10 +12,6 @@ My research interests are in **applied microeconomics** with a focus on **urban,
 
 For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 
-## Publications:
-
-1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/)) - **Journal of Economic Geography** [[link]](https://sites.google.com/site/pdomingr/)
-
 ## Works in Progress:
 
 1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
