@@ -8,17 +8,21 @@ layout: default
  
 My name is Pedro Rodriguez. I am a Ph.D. student in the Department of Economics at George Washington University. Prior to graduate school I was a research fellow at the Research Department of the Inter-American Development Bank (IADB).
 
-My research interests are in **applied microeconomics** with a focus on **urban, environmental and development** economics.
+My research interests are in **applied microeconomics** with a focus on **urban, development and environmental** economics.
 
 For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 
+## Publications:
+
+1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/)) 
+- Journal of Economic Geography [link] (https://sites.google.com/site/pdomingr/)
 
 ## Works in Progress:
 
-1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (joint with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
-2. Police-Monitored Cameras and Crime: Evidence from Ecuador (joint with Andrea Aguirre and [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
-3. Geography of Latin American Cities and Urban Outcomes (joint with [Remi Jedwab](https://www.remijedwab.com/))
-4. Access to Justice and Domestic Violence: Evidence from India's One-Stop Centers (joint with Ammu Lavanya)
+1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
+2. Police-Monitored Cameras and Crime: Evidence from Ecuador (with Andrea Aguirre and [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
+3. Access to Justice and Domestic Violence: Evidence from India's One-Stop Centers (with Ammu Lavanya)
+4. Economics Effects of Redevelopment: Evidence from Mexico's 1985 Earthquake (with [Remi Jedwab](https://www.remijedwab.com/))
 
 ## Op-eds:
 
