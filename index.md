@@ -14,8 +14,7 @@ For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 
 ## Publications:
 
-1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/)) 
-Journal of Economic Geography [[link]](https://sites.google.com/site/pdomingr/)
+1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/)) - **Journal of Economic Geography** [[link]](https://sites.google.com/site/pdomingr/)
 
 ## Works in Progress:
 
