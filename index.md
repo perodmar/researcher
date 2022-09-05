@@ -17,7 +17,7 @@ For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
 2. Police-Monitored Cameras and Crime: Evidence from Ecuador (with Andrea Aguirre and [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
 3. Access to Justice and Domestic Violence: Evidence from India's One-Stop Centers (with Ammu Lavanya)
-4. Economics Effects of Redevelopment: Evidence from Mexico's 1985 Earthquake (with [Remi Jedwab](https://www.remijedwab.com/))
+4. Economic Effects of Redevelopment: Evidence from Mexico's 1985 Earthquake (with [Remi Jedwab](https://www.remijedwab.com/))
 
 ## Op-eds:
 
