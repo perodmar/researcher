@@ -44,14 +44,14 @@ hr {
 .navbar-ul {
     display: inline-block;
     margin: 0;
-    padding: 5px 0 5px 0;
-    margin-left: 10px;
-    margin-right: 10px;
+    padding: 0;
 }
+
 .nav-list {
     list-style-type: none;
-    margin: 0 5px 0 10px;
+    margin: 0 15px; /* Adjust spacing between nav items */
 }
+
 .alignable {
     display: inline-block;
 }
