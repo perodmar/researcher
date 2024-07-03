@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Works in Progress:
 
 1. Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
