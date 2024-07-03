@@ -14,11 +14,11 @@ sass:
     sass_dir: _sass
 
 nav:
-- name: "About"
+ - name: "About"
    link: "index"
-- name: "Research"
+ - name: "Research"
    link: "research"
-- name: "CV"
+ - name: "CV"
    link: "Rodriguez, Pedro - Resume.pdf"
 
 
