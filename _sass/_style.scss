@@ -132,12 +132,3 @@ hr {
 
 @import "typography";
 @import "tables";
-
-/* Smaller text for descriptions */
-small {
-    display: block; /* Display as block-level for each description */
-    font-size: 0.85em; /* Adjust font size as needed */
-    margin-top: 5px; /* Space between the main text and the small text */
-    color: #555; /* Optional: Change color for better readability */
-}
-
