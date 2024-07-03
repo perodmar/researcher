@@ -14,9 +14,10 @@ For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 
 ## Works in Progress:
 
-1. Crime-Differential Responses to an Environmental Shock: Evidence from Chile (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
-2. Police-Monitored Cameras and Crime: Evidence from Ecuador (with Andrea Aguirre and [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
-3. The Long-Term Global Effects of Earthquakes on Urban Growth (with [Remi Jedwab](https://www.remijedwab.com/))
+1. Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
+2. Police-Monitored Cameras and Crime: Evidence from a Nationwide Policy (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
+3. Stylized Facts on the Global Distribution of Volume Gradients (with [Remi Jedwab](https://www.remijedwab.com/), Klaus Deininger, and Thomas Esch)
+4. The Long-Term Global Effects of Earthquakes on Urban Growth (with [Remi Jedwab](https://www.remijedwab.com/))
 
 ## Op-eds:
 
