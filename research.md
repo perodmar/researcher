@@ -4,7 +4,7 @@ layout: default
 
 ## Working Papers:
 
-1. Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
+### 1. Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
 
 <img src="photo.jpg" alt="Crime-Differential Responses to an Environmental Shock" style="float: left; margin-right: 20px;">
 <small>This study investigates how crime rates respond to environmental shocks, specifically looking at periods of blackouts.</small>
