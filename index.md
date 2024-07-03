@@ -14,4 +14,5 @@ For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
 
 ## Contact
 
-Email: <a href="mailto:perodmar@gwu.edu">perodmar@gwu.edu</a> | Twitter: [@perodmar](https://twitter.com/perodmar)
+<p style="margin: 0;">Email: <a href="mailto:perodmar@gwu.edu">perodmar@gwu.edu</a></p>
+<p style="margin: 0;">Twitter: <a href="https://twitter.com/perodmar">@perodmar</a></p>
