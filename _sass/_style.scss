@@ -141,6 +141,11 @@ small {
     color: #555; /* Optional: Change color for better readability */
 }
 
+/* Ensure images float correctly */
+div {
+    clear: both; /* Clear floats within div containers */
+}
+
 
 
 
