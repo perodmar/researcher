@@ -6,10 +6,8 @@ layout: default
 
 1. Crime-Differential Responses to an Environmental Shock: Evidence from Blackouts (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
 
-<div style="overflow: auto;">
-    <img src="photo.jpg" alt="Crime-Differential Responses to an Environmental Shock" style="float: left; margin-right: 20px;">
-    <small>This study investigates how crime rates respond to environmental shocks, specifically looking at periods of blackouts.</small>
-</div>
+<img src="photo.jpg" alt="Crime-Differential Responses to an Environmental Shock" style="float: left; margin-right: 20px;">
+<small>This study investigates how crime rates respond to environmental shocks, specifically looking at periods of blackouts.</small>
 
 3. Police-Monitored Cameras and Crime: Evidence from a Nationwide Policy (with [Patricio Dominguez](https://sites.google.com/site/pdomingr/))
 
