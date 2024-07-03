@@ -10,7 +10,7 @@ footer: yes
 #footer_text: "Page design by Ankit Sultana"
 
 sass:
-    style: compressed
+    style: compressed 
     sass_dir: _sass
 
 nav:
