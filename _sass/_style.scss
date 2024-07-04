@@ -138,11 +138,21 @@ hr {
     margin-bottom: 20px;
 }
 
-.working-paper-image {
-    float: left;
+/*.working-paper-image {
+%    float: left;
     margin-right: 0;
     width: 20px; /* Adjust the width as needed */
     height: 50px; /* Maintain aspect ratio */
+}*/
+
+.working-paper-image {
+	float: right;
+	margin: -10px 0 0 15px;
+        height: 150px;
+        width: 150px;
+        position: relative;
+        float: right;
+        border-radius: 0;
 }
 
 .working-paper-text {
