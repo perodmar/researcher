@@ -134,5 +134,15 @@ hr {
 	}
 }
 
+@media (max-width: 500px) {
+    /* Adjust layout for small screens */
+    ol li div {
+        flex-direction: column; /* Stack items vertically */
+    }
+    ol li div img {
+        margin-bottom: 10px; /* Optional: Add margin between image and text */
+    }
+}
+
 @import "typography";
 @import "tables";
