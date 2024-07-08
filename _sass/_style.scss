@@ -69,13 +69,14 @@ hr {
 
 .container {
     max-width: $max-width;
+    width: 90%; /* Ensures the wrapper takes up 90% of the viewport width */
     margin: 0 auto;
 }
 .wrapper {
     max-width: $max-width;
     min-height: 100%;
-    margin: 0 auto; /* Center the wrapper */
     width: 90%; /* Ensures the wrapper takes up 90% of the viewport width */
+    margin: 0 auto; /* Center the wrapper */
 }
 
 /* Institute Image */
