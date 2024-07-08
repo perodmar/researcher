@@ -19,7 +19,7 @@ layout: default
         <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
             <img src="files/coefplot_housepop_buvsro.png" alt="Image description" style="width: 250px; margin-right: 5px;">
             <small style="margin-left: 10px;">We examine how the supply of offenses respond to a large environmental shock in the urban space. We focus on blackouts which can abruptly change the provision of light, and potentially the distribution of criminal opportunities. Using high-frequency administrative data on more than 370,000 power outage incidents reported in Chile during 2014-2015, we analyze how they affect crime along several dimensions. We find no significant effect on the aggregate crime rate, but we also find two offsetting reactions driving this result: a positive effect in burglary, and a negative effect on robbery and thefts. By exploiting unique features of the data, we analyze several dimensions of treatment effect heterogeneity regarding the magnitude, size and duration of the blackout. In addition, we find that crime responses differ by municipality socio-economic status. We validate our findings by conducting a set of placebo exercises where we find no meaningful variation across different crime types and treatment definitions. Our results suggest that criminals react to changes in incentives by carrying out crimes that yield a higher expected return.
-<br><br> <strong>Presented:</strong> Development Tea @GWU </small> 
+<br><br> <strong>Presented:</strong> Development Tea @GWU
 <br> <strong>Co-author Presented:</strong> AL CAPONE Workshop, Virtual Crime Economics (ViCE) Seminar Series, U.San Andres, IADB Research Dept. </small>
         </div>
     </li>
