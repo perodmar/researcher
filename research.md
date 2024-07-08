@@ -32,7 +32,7 @@ layout: default
     </li>
 </ol>
 
-## Works in Progress:
+## Work in Progress:
 <ol>
     <li><strong style="display: block;">Criminal Sentencing and Within-Family Labor Market Outcomes (JMP)</strong> </li>
     <li><strong style="display: block;">The Long-Term Global Effects of Earthquakes on Urban Growth (with <a href="https://www.remijedwab.com/">Remi Jedwab</a>)</strong></li>
