@@ -69,7 +69,8 @@ hr {
 
 .container {
     max-width: $max-width;
-    margin: auto;
+    width: 75%; /* Ensures the wrapper takes up 90% of the viewport width */
+    margin: 0 auto;
 }
 .wrapper {
     max-width: $max-width;
