@@ -132,30 +132,3 @@ hr {
 
 @import "typography";
 @import "tables";
-
-
-.working-paper {
-    margin-bottom: 20px;
-}
-
-.working-paper-image {
-	float: right;
-	margin: -10px 0 0 15px;
-        height: 150px;
-        width: 150px;
-        position: relative;
-        float: right;
-        border-radius: 0;
-}
-
-.working-paper-text {
-    font-size: 0.75em; /* Smaller font size */
-    line-height: 1.5em;
-}
-
-/* Clear float */
-.working-paper::after {
-    content: "";
-    display: table;
-    clear: both;
-}
