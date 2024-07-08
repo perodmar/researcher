@@ -74,6 +74,7 @@ hr {
 .wrapper {
     max-width: $max-width;
     min-height: 100%;
+    width: 90%; /* Ensures the wrapper takes up 90% of the viewport width */
 }
 
 /* Institute Image */
