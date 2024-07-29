@@ -10,7 +10,7 @@ My name is Pedro Rodriguez-Martinez. I am a Ph.D. candidate in the Department of
 
 My research interests are in **applied microeconomics** with a focus on **urban, development and public** economics.
 
-For more information, please see my [CV](/Rodriguez, Pedro - Resume.pdf).
+For more information, please see my [CV](files/RodriguezMartinez, Pedro - CV.pdf).
 
 ## Contact
 
