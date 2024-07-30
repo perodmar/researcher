@@ -44,7 +44,7 @@ layout: default
     <li><strong style="display: block;">Ideas to safely reduce prison populations during the pandemic (Ideas Matter - May 2020)
         [<a href="https://blogs.iadb.org/ideas-matter/en/ideas-to-safely-reduce-prison-populations-during-the-pandemic/">English</a>]
         [<a href="https://blogs.iadb.org/ideas-que-cuentan/es/ideas-para-reducir-la-poblacion-carcelaria-de-manera-segura-ante-la-pandemia/">Español</a>]</strong></li>
-    <li><strong style="display: block;">Pandemic and prisons: What are the challenges for Latin American countries (Ideas Matter - April 2020)
+    <li><strong style="display: block;">Pandemic and prisons: What are the challenges for Latin American countries? (Ideas Matter - April 2020)
         [<a href="https://blogs.iadb.org/ideas-matter/en/pandemic-and-prisons-what-are-the-challenges-for-latin-american-governments/">English</a>]
         [<a href="https://blogs.iadb.org/ideas-que-cuentan/es/la-pandemia-y-las-prisiones-cuales-son-los-desafios-para-los-gobiernos-de-america-latina/">Español</a>]</strong></li>
 </ol>
