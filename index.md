@@ -16,3 +16,4 @@ For more information, please see my [CV](files/RodriguezMartinez, Pedro - CV.pdf
 
 <p style="margin: 0;">Email: <a href="mailto:perodmar@gwu.edu">perodmar@gwu.edu</a></p>
 <p style="margin: 0;">Twitter: <a href="https://twitter.com/perodmar">@perodmar</a></p>
+<p style="margin: 0;">GitHub: <a href="https://github.com/perodmar">@perodmar</a></p>
