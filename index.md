@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="files/photo2.jpg">
+<img class="profile-picture" src="files/photo.jpg">
  
 My name is Pedro Rodriguez-Martinez. I am a Ph.D. candidate in the Department of Economics at George Washington University. Prior to graduate school I was a research fellow at the Research Department of the Inter-American Development Bank (IADB).
 
