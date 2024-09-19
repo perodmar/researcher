@@ -8,7 +8,7 @@ layout: default
  
 My name is Pedro Rodriguez-Martinez. I am a Ph.D. candidate in the Department of Economics at George Washington University. Prior to graduate school I was a research fellow at the Research Department of the Inter-American Development Bank (IADB).
 
-My research interests are in **applied microeconomics** with a focus on **development and urban** economics.
+My research interests are in **applied microeconomics** with a focus on **development** and **urban** economics.
 
 For more information, please see my [CV](files/RodriguezMartinez, Pedro - CV.pdf).
 
