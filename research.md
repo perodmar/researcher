@@ -37,7 +37,7 @@ layout: default
 <ol>
     <li><strong style="display: block;">The Long-Term Global Effects of Earthquakes on Urban Growth (with <a href="https://www.remijedwab.com/">Remi Jedwab</a>)</strong></li>
     <li><strong style="display: block;">Land-use Regulations and Construction Patterns: Global Evidence (with <a href="https://www.remijedwab.com/">Remi Jedwab</a> and <a href="https://www.worldbank.org/en/about/people/k/klaus-deininger">Klaus Deininger</a>)</strong></li>
-    <li><strong style="display: block;">Criminal Sentencing and Labor Market Outcomes (JMP)</strong></li>
+    <li><strong style="display: block;">Criminal Sentencing and Labor Market Outcomes</strong></li>
 </ol>
 
 ## Op-eds:
